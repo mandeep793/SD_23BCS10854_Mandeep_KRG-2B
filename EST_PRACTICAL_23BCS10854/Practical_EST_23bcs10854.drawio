@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Cqui_4jiVMvu4oxXl750">
+    <mxGraphModel dx="2077" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YNmgyqNM7Tg4OF0D2Atm-3" edge="1" parent="1" source="YNmgyqNM7Tg4OF0D2Atm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YNmgyqNM7Tg4OF0D2Atm-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YNmgyqNM7Tg4OF0D2Atm-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="User/client" vertex="1">
+          <mxGeometry height="30" width="90" x="240" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-1" edge="1" parent="1" source="YNmgyqNM7Tg4OF0D2Atm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="YNmgyqNM7Tg4OF0D2Atm-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YNmgyqNM7Tg4OF0D2Atm-2" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.apigateway;" value="" vertex="1">
+          <mxGeometry height="38.61" width="40" x="265" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-10" edge="1" parent="1" source="YNmgyqNM7Tg4OF0D2Atm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-53" edge="1" parent="1" source="YNmgyqNM7Tg4OF0D2Atm-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YNmgyqNM7Tg4OF0D2Atm-4" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.application_load_balancer;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="72" width="69" x="250.5" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Load balancer&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="310" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API gateway&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="305" y="158.61" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-14" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-19" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-54" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-9" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" value="" vertex="1">
+          <mxGeometry height="80" width="80" x="360" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Services" vertex="1">
+          <mxGeometry height="30" width="60" x="430" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-13" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="41" x="305" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="NEWS FEED CACHE" vertex="1">
+          <mxGeometry height="30" width="60" x="245" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-22" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="620" as="sourcePoint" />
+            <mxPoint x="680" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-26" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V9FaxdQtLa_LosB-VMLm-25" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-68" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-16" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/windows_server.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="41" x="480" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CREATE A POST service" vertex="1">
+          <mxGeometry height="30" width="60" x="510" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-33" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="760" />
+            </Array>
+            <mxPoint x="685" y="715" as="sourcePoint" />
+            <mxPoint x="705" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-21" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="" vertex="1">
+          <mxGeometry height="70" width="50" x="660" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="get friends ids to build their feed" vertex="1">
+          <mxGeometry height="30" width="60" x="690" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="friend ids cache" vertex="1">
+          <mxGeometry height="30" width="60" x="720" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-35" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-25" parent="1" style="whiteSpace=wrap;html=1;" value="FANOUT SERVICE" vertex="1">
+          <mxGeometry height="50" width="100" x="521" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-27" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="710" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FRIENDS INFO BASED ON IDS" vertex="1">
+          <mxGeometry height="30" width="60" x="760" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="store feed in cache" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="get friends feed" vertex="1">
+          <mxGeometry height="30" width="60" x="250" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-39" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Registration: Data Saving in DB" vertex="1">
+          <mxGeometry height="30" width="190" x="-280" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-41" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Check user&#39;s credentials" vertex="1">
+          <mxGeometry height="30" width="150" x="-90" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-43" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;User DB&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-100" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-44" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="90" width="67.5" x="-120" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="&lt;b&gt;Users&lt;/b&gt;&lt;br&gt;- userID&lt;br&gt;- Username&lt;br&gt;- Email&lt;br&gt;- Password&lt;br&gt;- Phonenumber&lt;br&gt;- Followers_count&lt;br&gt;- friends_count&lt;br&gt;- profile_url&lt;br&gt;- other meta data of&amp;nbsp; user" vertex="1">
+          <mxGeometry height="160" width="160" x="-200" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-51" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-48" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="108" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="user service" vertex="1">
+          <mxGeometry height="30" width="60" x="60" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-58" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="V9FaxdQtLa_LosB-VMLm-56" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-55" parent="1" style="whiteSpace=wrap;html=1;" value="FOLLOW SERVICE" vertex="1">
+          <mxGeometry height="40" width="110" x="140" y="830" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-60" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="V9FaxdQtLa_LosB-VMLm-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-56" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="100" width="75" x="350" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-57" parent="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" value="Follower&lt;br&gt;- Follow_id (PK)&lt;br&gt;- Follower_id&lt;br&gt;- Following_id&lt;br&gt;- Status_of_req&lt;br&gt;- Timestamp" vertex="1">
+          <mxGeometry height="100" width="110" x="411" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-67" edge="1" parent="1" source="V9FaxdQtLa_LosB-VMLm-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="V9FaxdQtLa_LosB-VMLm-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-63" parent="1" style="whiteSpace=wrap;html=1;" value="Likes/Comments on a post" vertex="1">
+          <mxGeometry height="45" width="100" x="600" y="465" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-65" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Database_128x128.png" value="" vertex="1">
+          <mxGeometry height="40" width="50" x="770" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="V9FaxdQtLa_LosB-VMLm-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="likes /comments database" vertex="1">
+          <mxGeometry height="30" width="60" x="765" y="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
